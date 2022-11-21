@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="web.css">
+	<link href="https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
+</head>
+<body class="m1">
+<div class="img">
+	<div>
+		<div class="h1">
+			<h1>A Brief History Of The Universe</h1>
+		</div>
+		<div class="sub">
+			<h1>key events of the universe</h1>
+		</div>
+		<div class="ht">
+			<div class="sub">
+				<a href="#explore">
+					<button class="bu"><h4>Explore</h4></button>
+				</a>
+			</div>
+			<div class="sub">
+				<a href="#read">
+					<button class="bu"><h4>Read More</h4></button>
+				</a>
+			</div>
+		</div>
+		
+	</div>
+	</div>	
+</div>
+<div >
+	<div class="t1">
+		<h1>What is the Universe? How was it formed?</h1>
+		<h1>10 key events leading to the formation of the universe</h1>
+	</div>
+	<div class>
+		<div class="sub1">
+			<h2>The big bang</h2>
+			<p id="read">The Big Bang wasn’t actually a big bang.
+
+			The “bang” was an expansion that grew from a singularity, which was a tiny dot that contained every particle of matter from here to eternity.
+
+			In a fraction of a second this singularity expanded to create a scorching hot universe millions of billions of miles wide. Nearly all the elements that have ever existed were created in the first few minutes of expansion, and it was the first step to creating life.</p>
+		</div>	
+		
+		
+	</div>
+	</div>
+	
+		<div class="sub1">
+			<h2>Formation of planets</h2>
+			<p >For the next 9 billion years, gravity pulled gases and elements together, forming giant clouds. One of these clouds grew so big it collapsed on itself and a Sun formed in its center.
+
+			Gas and particles began rotating around the Sun and within this rotating disc, gravity pulled more gas and particles together, forming planets, stars, asteroids, and moons. These planetary bodies all rotated around the Sun.
+
+			One planetary body was Earth, which was formed after 10–20 million years of gravity at work. The planet was a flaming rock rotating around the Sun when it first formed, and it was heavily bombarded by other gigantic rocks.</p>
+	</div>
+	<div class="im">
+		
+	</div>
+	<div class="dis">
+		<div class="sub1">
+			<h2>The Late Heavy Bombardment</h2>
+			<p>The Late Heavy Bombardment happened about 4 billion years ago.
+
+			There were a ton of explosions, meteorites, and asteroids floating around the universe with no place to go. These rocks began crashing into the planetary bodies. Craters on the moon are evidence of this.
+
+			at this point, Earth was a ball of molten lava. Some of the space rocks contained water and ice, and when the water and ice met the lava, it created steam.This steam began to accumulate to create the atmosphere, significantly cooling down the temperature of the Earth.
+
+			Once the Earth was cool enough, molten morphed into land, and it continued raining until the Earth was covered in water.
+
+			This is when life began to form.</p>
+		</div>
+		<div class="sub1">
+			<h2>The Archean Eon</h2>
+			<p>During the Archean Eon (4–2.5 billion years ago), the Earth witnessed abiogenesis.
+
+			Abiogenesis is the formation of life from non-living matter.
+
+			On the bottom of all that water sat vents that spewed out atomic gases and elements that got trapped inside the Earth during the Late Heavy Bombardment.
+
+			These atomic gases spewed into the water, and through the perfect interaction of lipids, carbs, proteins, and nucleic acids (RNA and DNA), microorganisms formed. These single-celled organisms were fully functional and are still present almost everywhere in the world today — and they self replicate. They remained the only form of life on Earth for about 3 billion years.</p>
+		</div>
+	</div>
+	<div>
+		<div class="sub1">
+			<h2>The Great Oxygenation of Earth (GOE)</h2>
+			<p>The Great Oxygenation of Earth (GOE) lasted from 3 billion years ago to 1 billion years ago.
+
+				During this period, microorganisms in the ocean were consuming sunlight and converting it into energy to feed themselves (photosynthesis).
+
+				One side effect of photosynthesis is that microorganisms release oxygen into the air as waste. Before the GOE, organic matter would absorb all of the excess oxygen.
+
+				The GOE was the point when organic matter was so saturated with oxygen that excess oxygen started to accumulate in the atmosphere.
+
+				When oxygen began flooding into the atmosphere, it pushed out and merged with other gases to form water and carbon dioxide.
+
+				This caused the Earth’s temperature to plummet, creating an ice age that lasted for about 300 million years. It was called the Huronian Glaciation.
+
+				The ice age caused continents to split, pulling the ocean floor apart and exposing more volcanic activity. These tectonic shifts created chaotic fluctuations in temperature, causing Earth to freeze and thaw multiple times over the next 2 billion years.
+
+				Once things started to regulate, complex life formed.</p>
+		</div>
+		<div class="sub1">
+			<h2>The Cambrian Explosion</h2>
+			<p>From around 540 million years ago to 490 million years ago, Earth saw a remarkable burst of evolution. The period was called The Cambrian Explosion.
+
+				Scientists can’t agree what sparked the Cambrian Explosion, but the most accepted theory is that one single-celled organism attacked another single-celled organism and the winner ended up living inside the loser.
+
+				Eventually these single-celled organisms came to depend on one another for survival and began working together as one multi-celled organism. This is called endosymbiosis. The two single-celled organisms became one multi-celled, complex organism with a nucleus and a membrane.
+
+				Then, it was off to the races.
+
+				For the next 50 million years, sponges, fungi, plants, worms, jellyfish, and small animals like snails started to form on the ocean floor.
+
+				These life forms are called eukaryotes and they’re the ancestors of all living things today.</p>
+		</div>
+		<div class="sub1">
+			<h2>Creation of the Ozone Layer</h2>
+			<p>For the next 100 million years, more advanced forms of life started to form and started to move closer to land.
+
+				The first forms of life to move toward land were algae and fungi that formed a resistance to deadly ultraviolet rays (UV rays) from the Sun. These algae and fungi were half in water and half on land, depending on the rising and falling of the tide.
+
+				Some oxygen molecules began absorbing the Sun’s UV rays and started to split and combine with molecular oxygen. This formed ozone molecules that absorbed UV rays, making it safe to walk on land.
+
+				At this point, the ancestors of modern insects (millipedes and centipedes) walked out of the ocean and onto land. These were the first animals to colonize on land.
+
+				Once land was protected by the ozone layer, plant and animal life took off.
+
+				Over the course of the next 300 million years, the Earth saw the birth of land-breathing plants and animals. Trees, reptiles, birds, mammals, dinosaurs, flowering plants, and bees came into existence.
+
+				Continents formed and split, and several mass extinctions wiped out tons of life. One of the most famous mass extinctions killed the dinosaurs..</p>
+		</div>
+	</div>
+	<div>
+		<div class="im2">
+			<div class="sub1">
+				<h2 id="explore">Creation of the Ozone Layer</h2>
+				<p>For the next 100 million years, more advanced forms of life started to form and started to move closer to land.
+
+					The first forms of life to move toward land were algae and fungi that formed a resistance to deadly ultraviolet rays (UV rays) from the Sun. These algae and fungi were half in water and half on land, depending on the rising and falling of the tide.
+
+					Some oxygen molecules began absorbing the Sun’s UV rays and started to split and combine with molecular oxygen. This formed ozone molecules that absorbed UV rays, making it safe to walk on land.
+
+					At this point, the ancestors of modern insects (millipedes and centipedes) walked out of the ocean and onto land. These were the first animals to colonize on land.
+
+					Once land was protected by the ozone layer, plant and animal life took off.
+
+					Over the course of the next 300 million years, the Earth saw the birth of land-breathing plants and animals. Trees, reptiles, birds, mammals, dinosaurs, flowering plants, and bees came into existence.
+
+					Continents formed and split, and several mass extinctions wiped out tons of life. One of the most famous mass extinctions killed the dinosaurs.</p>
+				
+			</div>
+			<div class="sub1">
+				<h2>Cretaceous-Paleogene Extinction (K-Pg Extinction)</h2>
+				<p>About 68 million years ago — long before any species of human roamed the planet — the Tyrannosaurus Rex evolved into what we think of when 		we think of a T-Rex. About 66 million years ago, it went extinct in the K-Pg Extinction, which wiped out 75% of all species on Earth.
+
+					It’s believed that a comet or asteroid crashed into Earth, and created an impact winter that made it impossible for photosynthesis to occur. Radiation lingered in the atmosphere.
+
+					Luckily for us, the mass extinction led to a remarkable series of evolution on Earth — especially among mammals.
+
+					Mammals replaced dinosaurs as the dominant species of animals on Earth and also underwent adaptive radiation. Adaptive radiation is when animals diverge into new species. Horses, whales, bats, and primates all began roaming the Earth, and eventually primates became one of the dominant animals on Earth..</p>
+				
+			</div>
+			<div class="dis">
+				<div class="sub1">
+					<h2>The Evolution of Primates</h2>
+					<p>The first primates began evolving just after the dinosaurs went extinct (65 million years ago).
+
+						Through 60 million years of evolution, primates evolved and spread all around the area and gave rise to several species.
+
+						Some apes in Africa began walking upright about 5 million years ago. They could use their hands to climb trees, peel fruit, carry things, and protect themselves.
+
+						About 3.4 million years ago, the first evidence of stone tools were found in the Lower Awash Valley in Ethiopia. This predates any species of human, so it’s assumed that primates were able to carry and use rocks for tools. This use of tools is believed to have aided in the evolution of humans.
+
+						Markings from stone tools were found on the fossilized bones of animals in the area, meaning primates used sharpened rocks to cut meat from bones and used blunt stones to smash bones and extract marrow from dead mammals.
+
+						Just when primates began mastering tools, communication, and collective intelligence, a new species arrived on the scene— humans.</p>
+					
+				</div>
+				<div class="sub1">
+					<h2>The Rise of Humans</h2>
+					<p>
+
+						The first species of humans to appear on Earth evolved from the genus of ape called Australopithecus, about 2.8 million years ago in Ethiopia.
+
+						About 2 million years ago, some of these humans decided to venture outward and explore the world. Surviving the cold temperatures of Russia required different strengths than surviving the jungles of Africa, so the humans began to evolve differently. The book Sapiens: A Brief History of Humankind does a great job of explaining this rise.
+
+						Humans in Europe and Western Asia evolved into Homo Neanderthalensis (Neanderthals). Humans in Eastern Asia evolved into Homo Erectus (Upright Man). Homo Soloensis evolved on the Indonesian island of Java. On another Indonesian island — Flores — Homo Floresiensis thrived. Siberia was the home to Homo Denisova.
+
+						Homo Rudolfensis, Homo Ergaster, and eventually our own species, Homo Sapiens, evolved in Africa. Sapiens didn’t hit the scene until about 200,000 years ago.
+
+
+						From 10,000 years ago to today, Sapiens have went on to create and discover a slew of advancements — religion, society, currency, trade, and technology just to name a few — but that’s another list for another day.</p>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>
+</div>
+
+
+</body>
+</html>
