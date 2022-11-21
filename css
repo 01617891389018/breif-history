@@ -1,0 +1,92 @@
+.img{
+	background-image: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0,.3)),url("uni.jpg");
+	height: 600px;
+	width: 100%;
+	background-position: center;
+	background-size: cover;ssss
+}
+.im{
+	background-image: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0,.3)),url("plan.jpg");
+	height: 600px;
+	width: 100%;
+	background-position: center;
+	background-size: cover;ssss
+}
+.im2{
+	background-image: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0,.3)),url("oz.jpg");
+	height: 817px;
+	width: 100%;
+	background-position: center;
+	background-size: cover;ssss
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100vh;
+	
+}
+.h1{
+	text-align: center;
+	padding: 20px;
+	font-size: 35px;
+	color: gold;
+	font-family: 'El Messiri', sans-serif;;
+}
+.sub{
+	text-align: center;
+	padding: 2px;
+	font-size: 25px;
+	color: gold;
+	font-family: 'El Messiri', sans-serif;;
+}
+.sub1{
+	text-align: left;
+	padding: 2px;
+	color:whitesmoke;
+	font-family: 'Nunito', sans-serif;
+}
+.ht{
+	display: flex;
+	margin-left: 38%;
+}
+.bu{
+	height: 50px;
+	width: 210px;
+	transition-duration:0.5s;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: transparent;
+	border-width: 2px;
+	border-color: white;
+	border-style: groove;
+	font-family: 'El Messiri', sans-serif;;
+	color: white
+}
+.bu:hover{
+	box-shadow: inset 210px 0 0 0 white;
+	cursor: pointer;
+	color: black;
+	
+	
+}
+.t1{
+	font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: whitesmoke;
+}
+.m1{
+	background-color: black;
+
+}
+html{
+	scroll-behavior: smooth;
+}
+img{
+    height: 227px;
+    border-radius: 20px;
+    margin-top: 129px;
+}
+.dis{
+	display: flex;
+}
